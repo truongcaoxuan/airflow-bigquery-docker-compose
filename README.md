@@ -20,10 +20,9 @@ This repository hosts a robust Apache Airflow data pipeline designed to seamless
 ### 2. Prerequisites
 
 - Install Docker
-
 - Install Docker Compose
-
 - Install Docker Desktop on Windows
+- Environment Setup
 
 ### 3. Getting Started
 
@@ -61,7 +60,7 @@ Docker Compose is a tool for defining and running multi-container Docker applica
 
 If you are using Windows, it's recommended to use Docker Desktop, which provides an integrated environment for Docker on Windows. Follow the instructions to install [Docker Desktop for Windows](https://docs.docker.com/desktop/install/windows-install/).
 
-### Setup GOOGLE_APPLICATION_CREDENTIALS
+### Environment Setup: GOOGLE_APPLICATION_CREDENTIALS
 
 - Create a Google Cloud Service Account and download client json file with name `Service_Account_Credentials.json`: <https://www.youtube.com/watch?v=gb0bytUGDnQ>
   - To interact with Google BigQuery, create a Google Cloud Service Account with appropriate permissions.
