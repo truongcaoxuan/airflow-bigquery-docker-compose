@@ -1,0 +1,16 @@
+google-cloud-bigquery
+google-cloud-storage
+requests
+pandas
+pandas-gbq
+numpy
+#scikit-learn
+#xgboost
+#bs4
+python-dotenv
+dbt-core
+dbt-postgres
+dbt-redshift
+dbt-snowflake
+dbt-bigquery
+dbt-trino
